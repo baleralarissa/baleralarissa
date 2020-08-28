@@ -1,19 +1,19 @@
-### Hello World, it's me Larissa! 
+## Hello World, it's me Larissa! 
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/TjRcLDHDgLOWiI0L1V" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/platzi-it-code-coding-TjRcLDHDgLOWiI0L1V">via GIPHY</a></p>
+! [coding queen] (https://giphy.com/gifs/platzi-it-code-coding-TjRcLDHDgLOWiI0L1V)
 
-## 👋🏽 ABOUT ME 
+### 👋🏽 ABOUT ME 
 - 👶🏽 23 years old
 - 👩🏽‍🎓 Computer Scientist since 2018
 - ⚡ Fun fact: I'm a computer scientist, but also very scared of showing the world my 
 - 💬 Ask me about cats, photography and black feminism
 
-## What I am doing:
+### What I am doing:
 - 🌱 Currently learning LookML and React
 - 👨🏽‍💻 Big Open Source Sister´
 - 💻 Creating amazing websites just for fun
 
-## 📫 Find me and get in touch:
+### 📫 Find me and get in touch:
 - 📧 larissa.balera50@gmail.com
 - 🔗 [LinkedIn] (https://www.linkedin.com/in/larissa-balera-704032177/)
 - 🔗 [GitPage] (https://baleralarissa.github.io/)
