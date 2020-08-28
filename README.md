@@ -16,8 +16,8 @@
 
 ### 📫 Find me and get in touch:
 - 📧 larissa.balera50@gmail.com
-- 🔗 [LinkedIn] (https://www.linkedin.com/in/larissa-balera-704032177/)
-- 🔗 [GitPage] (https://baleralarissa.github.io/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/larissa-balera-704032177/)
+- 🔗 [GitPage](https://baleralarissa.github.io/)
 
 
 <!--
