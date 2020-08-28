@@ -6,7 +6,7 @@
 
 - 👶🏽 23 years old
 - 👩🏽‍🎓 Computer Scientist since 2018
-- ⚡ Fun fact: I'm a computer scientist, but also very scared of showing the world my 
+- ⚡ Fun fact: I'm a computer scientist, but also very scared of showing the world my projects and codes
 - 💬 Ask me about cats, photography and black feminism
 
 ### What I am doing:
