@@ -1,12 +1,7 @@
 ## Hello World, it's me Larissa! 
 
-<<<<<<< HEAD
-! [coding queen] (https://giphy.com/gifs/platzi-it-code-coding-TjRcLDHDgLOWiI0L1V)
-
-### 👋🏽 ABOUT ME 
-=======
 ## 👋🏽 ABOUT ME 
->>>>>>> 38107707d54b0d127728aa0e3eff7088f01848d0
+
 - 👶🏽 23 years old
 - 👩🏽‍🎓 Computer Scientist since 2018
 - ⚡ Fun fact: I'm a computer scientist, but also very scared of showing the world my 
