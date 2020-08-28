@@ -11,7 +11,7 @@
 
 ### What I am doing:
 - 🌱 Currently learning LookML and React
-- 👨🏽‍💻 Big Open Source Sister´
+- 👨🏽‍💻 Learning with amazing ladies from the[BOSS](https://github.com/BOSS-BigOpenSourceSister) project
 - 💻 Creating amazing websites just for fun
 
 ### 📫 Find me and get in touch:
