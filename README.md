@@ -13,6 +13,7 @@
 - 🌱 Currently learning LookML and Python
 - 👨🏽‍💻 Learning with amazing ladies from the [BOSS](https://github.com/BOSS-BigOpenSourceSister) project
 - 💻 Creating amazing websites just for fun
+- 👩🏽‍🏫 Empowering girls, teaching SQL and web languages
 
 ### 📫 Find me and get in touch:
 - 📧 larissa.balera50@gmail.com
