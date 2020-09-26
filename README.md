@@ -10,7 +10,7 @@
 - 💬 Ask me about cats, photography and black feminism
 
 ### What I am doing:
-- 🌱 Currently learning LookML and React
+- 🌱 Currently learning LookML and Python
 - 👨🏽‍💻 Learning with amazing ladies from the [BOSS](https://github.com/BOSS-BigOpenSourceSister) project
 - 💻 Creating amazing websites just for fun
 
