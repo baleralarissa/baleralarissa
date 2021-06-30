@@ -7,13 +7,11 @@
 - 👶🏽 24 years old
 - 👩🏽‍🎓 Computer Scientist since 2018
 - ⚡ Fun fact: I'm a computer scientist, but also very scared of showing the world my projects and codes
-- 💬 Ask me about cats, videogames and black feminism
+- 💬 Ask me about cats, videogames and animes
 
 ### What I am doing:
-- 🌱 Currently learning LookML and Python
-- 👨🏽‍💻 Studying new frameworks
-- 💻 Creating amazing websites just for fun
-- 👩🏽‍🏫 Empowering girls, teaching SQL and web languages
+- 🌱 Currently learning Clojure and Python
+- 💻 Creating random algorithms just for fun
 
 ### 📫 Find me and get in touch:
 - 📧 larissa.balera50@gmail.com
