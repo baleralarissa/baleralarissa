@@ -10,7 +10,7 @@
 - 💬 Ask me about cats, videogames and animes
 
 ### What I am doing:
-- 🌱 Currently learning Clojure and Python
+- 🌱 Improving programming skills to be a professional developer.
 - 💻 Creating random algorithms just for fun
 
 ### 📫 Find me and get in touch:
