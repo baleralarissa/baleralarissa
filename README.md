@@ -6,7 +6,6 @@
 
 - 👶🏽 25 years old
 - 👩🏽‍🎓 Computer Scientist since 2018 
-- 💬 Ask me about cats, videogames and animes
 
 ### What I am doing:
 - 🌱 Improving programming skills to be a professional developer.
