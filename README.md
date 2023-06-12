@@ -4,12 +4,12 @@
 
 ### 👋🏽 ABOUT ME 
 
-- 👶🏽 25 years old
+- 👶🏽 26 years old
 - 👩🏽‍🎓 Computer Scientist since 2018 
-
+- 💻 Data Analyst
+- 
 ### What I am doing:
 - 🌱 Improving programming skills to be a professional developer.
-- 💻 Creating random algorithms just for fun
 
 ### 📫 Find me and get in touch:
 - 📧 larissa.balera50@gmail.com
