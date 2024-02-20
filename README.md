@@ -4,10 +4,11 @@
 
 ### 👋🏽 ABOUT ME 
 
-- 👶🏽 26 years old
+- 👶🏽 27 years old
 - 👩🏽‍🎓 Computer Scientist since 2018 
 - 💻 Data Analyst
-- 
+- 📖 Data Scientist on the making
+  
 ### What I am doing:
 - 🌱 Improving programming skills to be a professional developer.
 
